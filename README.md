@@ -32,7 +32,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Click play to see the demo:
-https://github.com/AbbyDamodaran/BeReal-iOS/assets/78409617/98c030ae-3e85-418a-93e4-3d54a3a1055c
+
+
+https://github.com/AbbyDamodaran/BeReal-iOS/assets/78409617/0a6bfa45-edd9-404c-aa1e-086bd550e85e
 
 ## Notes
 
